@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **karansamrat05039@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16URMK90x6Pkbh7RPGNp04Q1BsjYE50d7/view?usp=drivesdk](https://drive.google.com/file/d/16URMK90x6Pkbh7RPGNp04Q1BsjYE50d7/view?usp=drivesdk)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16URMK90x6Pkbh7RPGNp04Q1BsjYE50d7/view?usp=drivesdk" ><i class="fa-regular fa-file"></i><a/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
